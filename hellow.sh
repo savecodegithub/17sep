@@ -8,3 +8,5 @@ var=$((a*b))
 
 echo $var
 
+echo the numbers you gave are $a and $b
+
